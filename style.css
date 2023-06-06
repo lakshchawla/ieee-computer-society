@@ -80,6 +80,7 @@
   min-height: 100vh;
 }
 
+
 #holder {
   position: absolute;
   top: 0;
@@ -92,14 +93,14 @@
 .smallHeroHead {
   display: block;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 30px;
+  font-size: calc(0.5rem + 1.5vw);
 }
 
 .mainHeroHead {
   display: block;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 70px;
-  line-height: 74px;
+  font-size: calc(3rem + 1.5vw);
+  line-height: calc(3rem + 1.5vw);
   font-weight: bold;
 }
 
