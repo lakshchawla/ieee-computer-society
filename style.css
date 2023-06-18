@@ -285,3 +285,15 @@ figure.snip1174.hover p {
   text-decoration: none;
   margin-right: 10px;
 }
+
+.smallAnnouncementPage{
+  padding: 20vh 0;
+}
+
+.card{
+  border-radius: 0;
+}
+
+.card .card-img-top{
+  border-radius: 0;
+}
